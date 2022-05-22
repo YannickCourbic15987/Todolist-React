@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YannickCourbic15987/Todolist-React.git/static/css/main.e9c42991.css",
-    "main.js": "/YannickCourbic15987/Todolist-React.git/static/js/main.825539be.js",
-    "index.html": "/YannickCourbic15987/Todolist-React.git/index.html",
-    "main.e9c42991.css.map": "/YannickCourbic15987/Todolist-React.git/static/css/main.e9c42991.css.map",
-    "main.825539be.js.map": "/YannickCourbic15987/Todolist-React.git/static/js/main.825539be.js.map"
+    "main.css": "/YannickCourbic15987.github.io/Todolist-React/static/css/main.e9c42991.css",
+    "main.js": "/YannickCourbic15987.github.io/Todolist-React/static/js/main.825539be.js",
+    "index.html": "/YannickCourbic15987.github.io/Todolist-React/index.html",
+    "main.e9c42991.css.map": "/YannickCourbic15987.github.io/Todolist-React/static/css/main.e9c42991.css.map",
+    "main.825539be.js.map": "/YannickCourbic15987.github.io/Todolist-React/static/js/main.825539be.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c42991.css",
