@@ -1,0 +1,17 @@
+.line {
+    text-decoration: line-through;
+    color: red;
+
+}
+
+.display-line {
+    color: green
+}
+
+.RemoveP {
+    display: none;
+}
+
+.displayInput {
+    color: purple
+}
